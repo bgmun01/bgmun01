@@ -3,6 +3,9 @@
   <a href="https://bgmun01.github.io/aboutme2/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
 
+[보이는 화면](링크)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+
 <p>
   👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
   I have experience 7 years of Android development and 2 years of iOS development.<br/>
