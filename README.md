@@ -2,7 +2,7 @@
 ### Roy Mun
 ### "Code is my Story. I enjoy learning new programming languages and always strive to educate myself about the latest technologies."
 
-<!-- --!>
+
 <p>
   <a href="https://bgmun01.github.io/aboutme2/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
