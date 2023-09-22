@@ -7,7 +7,7 @@
 <!-- https://capsule-render.vercel.app/api end-point -->
 <!-- type :  -->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgmun01&layout=compact)
 
 
 <p>
