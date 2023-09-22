@@ -1,6 +1,13 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Believe%20In%20Yourself&fontAlign=40&fontAlignY=40&color=gradient)
+
 ### 🤞 Nice way to meet me
 ### Roy Mun
 ### "Code is my Story. I enjoy learning new programming languages and always strive to educate myself about the latest technologies."
+
+<!-- https://capsule-render.vercel.app/api end-point -->
+<!-- type :  -->
+
+
 
 
 <p>
