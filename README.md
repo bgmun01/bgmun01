@@ -1,3 +1,4 @@
+<div align="center">
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Believe%20In%20Yourself&fontAlign=40&fontAlignY=40&color=gradient)
 
 ### 🤞 Nice way to meet me
@@ -43,3 +44,5 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
+  
+</div>
